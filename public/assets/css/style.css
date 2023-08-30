@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 65,5%;
+}
+
+body {
+    background-color: rgb(33, 77, 77);
+}
